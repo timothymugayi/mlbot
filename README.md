@@ -10,7 +10,6 @@ This script processes staking data from a JSON file containing pool details, cal
 
 1. **Python Version**: Ensure you have Python 3.7 or higher installed.
 2. **Dependencies**:
-   - `pydash`: For functional programming utilities.
    - Custom modules:
      - `api` containing:
        - `MintLayerApiStrategy`
@@ -22,7 +21,7 @@ This script processes staking data from a JSON file containing pool details, cal
 Install the required libraries using:
 
 ```bash
-pip install pydash
+pip install -r requirements.txt
 ```
 
 ---
