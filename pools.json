@@ -1,0 +1,20 @@
+[
+    {
+        "pool_id": "mpool1a7sdv8e3c2xkwuql7trm5zg2jwp9n4yhmk9dt6j830fwqs98xlvpfkm2t1",
+        "delegation_id": "mdelg1n8rj2mwue5lk9xqp4t73ksvx9ylmwr0tqc6hzf82w7m3p4s9xvlty6dj",
+        "pool_balance": 1950.124589,
+        "delegation_datetime": "25/04/2024 14:45"
+    },
+    {
+        "pool_id": "mpool1c9trw4jlx8mkp2sv3yqd6tf5vn0kzuhqw39lm7x7mvlts9jqr5kpywz81c",
+        "delegation_id": "mdelg1q4w7mpklv8x3tr9jyq6fz2hvsmk02l5nw38tsyr9qp8z6v3klx9tcj7mw",
+        "pool_balance": 3100.874123,
+        "delegation_datetime": "26/04/2024 09:20"
+    },
+    {
+        "pool_id": "mpool1m9tsv5x8kqwz3rljp67vlty4djwmk2qc8y39tr0fs9ql5h2p8xz7vymjkw",
+        "delegation_id": "mdelg1r6wmkv3ty9lj7p8qsx8tf2vl4djqw0m5nh2kp9z3vlyqtr8x67wzmpjkl",
+        "pool_balance": 10275.365897,
+        "delegation_datetime": "27/04/2024 16:55"
+    }
+]
